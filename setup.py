@@ -6,6 +6,5 @@ setup(name = 'Nodesplit',
       author = 'Dion Moult',
       author_email = 'dion@thinkmoult.com',
       url = 'http://thinkmoult.com',
-      packages = ['Nodesplit'],
-      package_dir = {'': 'src'},
+      packages = ['nodesplit'],
       )
